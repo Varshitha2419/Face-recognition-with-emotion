@@ -1,0 +1,10 @@
+flask
+firebase_admin
+opencv-python
+pillow
+numpy
+Image
+opencv-contrib-python
+opencv-python
+deepface
+tf_keras
